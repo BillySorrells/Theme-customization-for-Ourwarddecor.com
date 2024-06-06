@@ -1,0 +1,14 @@
+{
+  "sections": {
+    "pagetify-page": {
+      "type": "pagetify-page",
+      "settings": {
+        "type": "index",
+        "width": "boxed"
+      }
+    }
+  },
+  "order": [
+    "pagetify-page"
+  ]
+}

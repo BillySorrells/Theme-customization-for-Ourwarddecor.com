@@ -1,0 +1,102 @@
+<script src="{{ 'parallax.js' | asset_url }}" defer="defer"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+
+
+<div class="parallax-container" data-parallax="scroll" data-bleed="10" data-speed="0.2" data-image-src="{{ section.settings.image | img_url: 'master' }}" data-natural-width="1400" data-natural-height="1400">
+  <div class="parallax-window">
+  <div class="parallax-slider">
+    <h1>{{ section.settings.title }}</h1>
+	<p>{{ section.settings.description }}</p>
+    <a class="btn btn-lg button" href="{{ section.settings.button_link }}">{{ section.settings.button_label }}</a>
+  </div>
+</div>
+</div>
+
+
+{% schema %}
+{
+    "name": "Parallax",
+    "class": "parallax-section",
+    "settings": [
+        {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Parallax Background Image"
+        },
+        {
+            "type": "text",
+            "id": "title",
+            "default": "Welcome to Fizan Theme",
+            "label": "Title"
+        },
+        {
+            "type": "richtext",
+            "id": "description",
+            "default": "<p>We are now 10,000 family.</p>",
+            "label": "Paragraph"
+        },
+        {
+            "type": "text",
+            "id": "button_label",
+            "default": "Button",
+            "label": "Shop Now"
+        },
+        {
+            "type": "url",
+            "id": "button_link",
+            "label": "Button Link"
+        }
+    ],
+
+    
+    "presets": [
+        {
+            "category": "Parallax",
+            "name": "Parallax Slider"
+        }
+    ]
+}
+{% endschema %}
+
+{% stylesheet %}
+
+
+
+.parallax-container {
+    height: auto;
+    width: 100%;
+    padding: 150px 0px;
+}
+  
+.parallax-window {
+	background: transparent;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.parallax-slider {
+    color: #fff;
+    text-align: center;
+}
+
+  .parallax-slider h1{
+    color: #fff;
+}
+
+
+
+  /* This CSS for small Mobile*/
+@media (max-width: 767px) {
+	
+.parallax-container {
+    padding: 50px 0px;
+}
+  
+}
+  
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

@@ -1,0 +1,163 @@
+<section class="video-slider-area">
+  <div class="video-slider">
+    <video src="{{ section.settings.video_url }}" autoplay muted loop playsinline></video>
+    <div class="video-text">
+      <h1>{{ section.settings.title }}</h1>
+      <p>{{ section.settings.description }}</p>
+      <a class="btn btn-lg button" href="{{ section.settings.button_link }}">{{ section.settings.button_label }}</a>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+{% schema %}
+{
+    "name": "Video",
+    "class": "video-section",
+    "settings": [
+        {
+            "id": "video_url",
+            "type": "text",
+            "default": "https://cdn.shopify.com/s/files/1/0613/7931/3873/files/Commercial_Jovita.mov?v=1646073577",
+            "label": "Video URL"
+        },
+        {
+            "type": "text",
+            "id": "title",
+            "default": "Hi, I'm Bosco ",
+            "label": "Video Title"
+        },
+        {
+            "type": "richtext",
+            "id": "description",
+            "default": "<p>They say every wrinkle is worth a thousand cuddles</p>",
+            "label": "Paragraph"
+        },
+        {
+            "type": "text",
+            "id": "button_label",
+            "default": "Button",
+            "label": "Shop Now"
+        },
+        {
+            "type": "url",
+            "id": "button_link",
+            "label": "Button Link"
+        }
+    ],
+
+    
+    "presets": [
+        {
+            "category": "Video",
+            "name": "Video Slider"
+        }
+    ]
+}
+{% endschema %}
+
+<style>
+
+
+
+.video-slider-area {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    height: 800px;
+}
+video {
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: auto !important;
+}
+
+ .video-slider-area:after {
+	
+}
+
+.video-text {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    text-align: center;
+    color: #fff;
+}
+.video-text h1 {
+    margin: 0 0 1rem;
+    padding: 0;
+    line-height: 1;
+    font-size: 32px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.video-text a{
+    width: max-content;
+    text-align: center;
+    margin: 0 auto;
+}
+  
+/* This CSS for small Mobile*/
+@media (max-width: 767px) {
+	
+.video-slider-area {
+    height: 210px;
+}
+  
+.video-text h1 {
+    font-size: 18px;
+    margin: 0;
+}
+  
+  
+}
+
+/* This CSS for Tablet */
+@media (min-width: 768px) {
+  
+  .video-slider-area {
+    height: 460px;
+}
+
+}
+
+/* This CSS for Medium Devices */
+@media (min-width: 992px) {
+  
+  .video-slider-area {
+    height: 576px;
+}
+
+}
+
+/* This CSS for Large Devices */
+@media (min-width: 1200px) {
+  
+  .video-slider-area {
+    height: 800px;
+}
+
+}  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</style>

@@ -1,0 +1,57 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "089b5cd2-c1cb-48a3-b941-39c3f23548cc": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21232694395163__089b5cd2-c1cb-48a3-b941-39c3f23548cc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Retailer? Designer? Manufacturer? Let's work together!<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--21232694395163__089b5cd2-c1cb-48a3-b941-39c3f23548cc-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to Outward Supply's Contract & Trade Opportunities. Just as we're committed to delivering outdoor cushions and pillows of unparalleled quality and style, we extend our dedication to forming partnerships that elevate outdoor spaces across the industry. Our focus isn't solely on crafting exquisite outdoor products; it's also about collaborating with designers, retailers, and contractors to bring exceptional comfort and style to a broader audience. <\/p><p>Are you interested in becoming an esteemed dealer or exploring contract sales opportunities with Outward Supply? Join our network of partners and open the door to a world of outdoor luxury.<\/p><p>As an Outward dealer, you'll gain privileged access to our exclusive collections, featuring the finest fabrics from the Pendleton by Sunbrella Collection. With over 30 years of dedicated service to the trade, we take immense pride in delivering exceptional products that elevate and transform any outdoor space. Whether you're a seasoned designer, a respected retailer, or a skilled contractor, collaborating with Outward Decor will infuse design and comfort into your clients' custom outdoor retreats.<\/p><p>Reach out to us today to explore the boundless possibilities of becoming an Outward dealer or to delve into lucrative contract sales opportunities. Together, we can craft unforgettable outdoor experiences that leave a lasting impression on your customers<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21232694395163__089b5cd2-c1cb-48a3-b941-39c3f23548cc-heading-1",
+        "template--21232694395163__089b5cd2-c1cb-48a3-b941-39c3f23548cc-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "6d33a94d-8aae-466f-9924-ac9518b30624": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "089b5cd2-c1cb-48a3-b941-39c3f23548cc",
+    "6d33a94d-8aae-466f-9924-ac9518b30624"
+  ]
+}

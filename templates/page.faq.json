@@ -1,0 +1,194 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "5d3557d5-93da-4410-8d95-0262aa38ed4a": {
+      "type": "parallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/kara-eads-zcVArTF8Frs-unsplash_1.png",
+        "title": "FAQ",
+        "description": "",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "9e3b2e27-ac51-4728-8f69-a4ef2cea792c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17507679568137__9e3b2e27-ac51-4728-8f69-a4ef2cea792c-1675518401b45c2040-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h2"
+          }
+        },
+        "template--17507679568137__9e3b2e27-ac51-4728-8f69-a4ef2cea792c-1675518401b45c2040-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Do you have any questions? Check out our Frequently Asked Questions below. If you still need help please <a href=\"\/pages\/contact\" title=\"Contact\">contact us.<\/a><\/p>"
+          }
+        },
+        "template--17507679568137__9e3b2e27-ac51-4728-8f69-a4ef2cea792c-1675518401b45c2040-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17507679568137__9e3b2e27-ac51-4728-8f69-a4ef2cea792c-1675518401b45c2040-0",
+        "template--17507679568137__9e3b2e27-ac51-4728-8f69-a4ef2cea792c-1675518401b45c2040-1",
+        "template--17507679568137__9e3b2e27-ac51-4728-8f69-a4ef2cea792c-1675518401b45c2040-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 32,
+        "padding_bottom": 24
+      }
+    },
+    "85933829-56f2-4358-8145-ef0d1925f612": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--17507679568137__85933829-56f2-4358-8145-ef0d1925f612-16755194768009f594-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How much does shipping cost?",
+            "icon": "box",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--17507679568137__85933829-56f2-4358-8145-ef0d1925f612-16755194768009f594-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What shipping carriers do you use?",
+            "icon": "box",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--17507679568137__85933829-56f2-4358-8145-ef0d1925f612-16755194768009f594-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where do you deliver?",
+            "icon": "box",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--17507679568137__85933829-56f2-4358-8145-ef0d1925f612-16755194768009f594-3": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17507679568137__85933829-56f2-4358-8145-ef0d1925f612-16755194768009f594-0",
+        "template--17507679568137__85933829-56f2-4358-8145-ef0d1925f612-16755194768009f594-1",
+        "template--17507679568137__85933829-56f2-4358-8145-ef0d1925f612-16755194768009f594-2",
+        "template--17507679568137__85933829-56f2-4358-8145-ef0d1925f612-16755194768009f594-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Shipping",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6cf50f10-e549-48e4-addb-b2213c32c62f": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--17507679568137__6cf50f10-e549-48e4-addb-b2213c32c62f-16755194768009f594-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "When will my order be shipped?",
+            "icon": "truck",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--17507679568137__6cf50f10-e549-48e4-addb-b2213c32c62f-16755194768009f594-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I change my delivery address?",
+            "icon": "truck",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--17507679568137__6cf50f10-e549-48e4-addb-b2213c32c62f-16755194768009f594-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I track my order?",
+            "icon": "truck",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--17507679568137__6cf50f10-e549-48e4-addb-b2213c32c62f-16755194768009f594-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I know if I have received my complete order?",
+            "icon": "truck",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17507679568137__6cf50f10-e549-48e4-addb-b2213c32c62f-16755194768009f594-0",
+        "template--17507679568137__6cf50f10-e549-48e4-addb-b2213c32c62f-16755194768009f594-1",
+        "template--17507679568137__6cf50f10-e549-48e4-addb-b2213c32c62f-16755194768009f594-2",
+        "template--17507679568137__6cf50f10-e549-48e4-addb-b2213c32c62f-16755194768009f594-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Tracking & Delivery",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "5d3557d5-93da-4410-8d95-0262aa38ed4a",
+    "9e3b2e27-ac51-4728-8f69-a4ef2cea792c",
+    "85933829-56f2-4358-8145-ef0d1925f612",
+    "6cf50f10-e549-48e4-addb-b2213c32c62f"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "6da598be-a3c6-4b38-82b9-5d8a6d14bbfb": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21232694133019__6da598be-a3c6-4b38-82b9-5d8a6d14bbfb-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>About Outward Decor<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "6dfd2591-3f3d-4391-b739-7dd9eb63b1e6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Outward Decor, we take great pride in our American-made outdoor cushions and pillows, crafted with passion and precision. As an American-based company, we are dedicated to supporting local craftsmanship and ensuring that our products uphold the highest standards of quality and durability. Our commitment to being American-made extends beyond just the products; it's about embracing the spirit of American ingenuity and creativity that shines through in every aspect of our brand.<\/p><p><\/p><p>As a customer-centric company, we prioritize your satisfaction above all else. From the moment you explore our collection to the delivery of your new cushions, our team is here to assist and guide you through the process. We understand that your outdoor space is an extension of your personal style and sanctuary, and that's why we strive to bring you a wide selection of luxurious cushions that blend comfort, elegance, and the rustic charm of the American West.<\/p><p>Doing business the right way is ingrained in our values. With a commitment to ethical practices and transparent communication, we aim to build lasting relationships with our customers. We take the time to listen to your needs and provide customized solutions, whether it's offering custom sizing options or helping you find the perfect fabric to match your vision. At Outward Decor, we're more than just a brand; we're a trusted partner in transforming your outdoor oasis into a place of relaxation, beauty, and delight.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21232694133019__6da598be-a3c6-4b38-82b9-5d8a6d14bbfb-heading-1",
+        "6dfd2591-3f3d-4391-b739-7dd9eb63b1e6"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "653c36c3-bd74-403c-ad79-7971e0eda553": {
+      "type": "newsletter",
+      "blocks": {
+        "template--21232694133019__653c36c3-bd74-403c-ad79-7971e0eda553-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "template--21232694133019__653c36c3-bd74-403c-ad79-7971e0eda553-paragraph-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "template--21232694133019__653c36c3-bd74-403c-ad79-7971e0eda553-email_form-1": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "template--21232694133019__653c36c3-bd74-403c-ad79-7971e0eda553-heading-1",
+        "template--21232694133019__653c36c3-bd74-403c-ad79-7971e0eda553-paragraph-1",
+        "template--21232694133019__653c36c3-bd74-403c-ad79-7971e0eda553-email_form-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "6da598be-a3c6-4b38-82b9-5d8a6d14bbfb",
+    "653c36c3-bd74-403c-ad79-7971e0eda553"
+  ]
+}

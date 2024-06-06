@@ -1,0 +1,103 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "646346e7-1d20-424b-a1b1-c3bc55e00c45": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21232694427931__646346e7-1d20-424b-a1b1-c3bc55e00c45-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Measuring Guide <\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--21232694427931__646346e7-1d20-424b-a1b1-c3bc55e00c45-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Getting the right measurements is the first step toward creating the perfect outdoor seating experience. At Outward Decor, we're dedicated to ensuring that your custom cushions fit seamlessly and comfortably into your outdoor space. To help you get started, we've put together easy-to-follow measuring instructions that will guarantee your cushions are tailor-made to your specifications. Let's dive into the details to ensure your outdoor oasis is nothing short of exceptional<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21232694427931__646346e7-1d20-424b-a1b1-c3bc55e00c45-heading-1",
+        "template--21232694427931__646346e7-1d20-424b-a1b1-c3bc55e00c45-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "bfa37c97-fd06-4c41-85e5-a6685ce6bb45": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21232694427931__bfa37c97-fd06-4c41-85e5-a6685ce6bb45-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/source_file_lenth_261e7125-123f-4c3a-8119-aad73df8cf27.png",
+            "title": "Measure Back & Seat Width",
+            "text": "<p>To measure the width of your cushion set, place the measuring tape from one side to the other, running it across the top of the back cushions. Repeat this measurement for the seat cushion, either on the zipper side or the front side. Ensure you measure from seam to seam and round the measurement to the nearest 1\/4\".<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21232694427931__bfa37c97-fd06-4c41-85e5-a6685ce6bb45-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mod_2_54287a59-a50a-4709-8c93-c08262c3c38b.png",
+            "title": "Measure Back & Seat Thickness",
+            "text": "<p>Measure the thickness of your seat cushion by placing the measuring tape from the top to the bottom, preferably at the corner. For the back cushion, measure its thickness by placing the measuring tape from the back to the front, also preferably at the corner. Measure from seam to seam and round the measurement to the nearest 1\/2\".<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21232694427931__bfa37c97-fd06-4c41-85e5-a6685ce6bb45-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/source_file_width_1b196433-9d4d-4f70-9daf-a73a0f32b16d.png",
+            "title": "Measure Back Height & Seat Depth",
+            "text": "<p>Measure the seat depth by placing the measuring tape from the front of the seat cushion to the back, preferably across the side of the cushion. Measure the back height by placing the measuring tape from the top of the back cushion to the bottom, from seam to seam. Don't forget to subtract the seat thickness if you are measuring your furniture rather than an existing cushion. Round these measurements to the nearest 1\/2\".<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21232694427931__bfa37c97-fd06-4c41-85e5-a6685ce6bb45-column-2",
+        "template--21232694427931__bfa37c97-fd06-4c41-85e5-a6685ce6bb45-column-1",
+        "template--21232694427931__bfa37c97-fd06-4c41-85e5-a6685ce6bb45-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "646346e7-1d20-424b-a1b1-c3bc55e00c45",
+    "bfa37c97-fd06-4c41-85e5-a6685ce6bb45"
+  ]
+}

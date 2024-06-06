@@ -1,0 +1,51 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "579a2269-1344-44b9-aac6-7009fead7acc": {
+      "type": "parallax",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/kadir-celep-A8aJwJ49rVM-unsplash.jpg",
+        "title": "Fashion",
+        "description": "",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "zeno-collection": {
+      "type": "zeno-collection",
+      "settings": {}
+    }
+  },
+  "order": [
+    "banner",
+    "579a2269-1344-44b9-aac6-7009fead7acc",
+    "product-grid",
+    "zeno-collection"
+  ]
+}

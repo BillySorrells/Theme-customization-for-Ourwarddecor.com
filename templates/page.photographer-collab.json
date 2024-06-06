@@ -1,0 +1,57 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "e7020516-265b-4564-9701-70e18c620b56": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21232694362395__e7020516-265b-4564-9701-70e18c620b56-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Inspire with Your Vision: Become Part of Our Outdoor Photography Collective<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--21232694362395__e7020516-265b-4564-9701-70e18c620b56-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Join our creative journey and become an essential part of the Outward Supply experience. Are you an avid photographer with a passion for outdoor aesthetics? We invite you to bring your unique vision to life with our premium outdoor products. Capture the spirit of the Southwest and the allure of rustic elegance through your lens. Whether it's our cushions adorning your outdoor furniture or our products set against breathtaking natural backdrops, your creativity can shine. What's more, we offer a rewarding opportunity to share your artistry – we'll compensate you for your stunning photos, or you can earn commissions from sales generated through your images. Embrace the outdoors, blend it with your art, and let's create something beautiful together.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21232694362395__e7020516-265b-4564-9701-70e18c620b56-heading-1",
+        "template--21232694362395__e7020516-265b-4564-9701-70e18c620b56-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "149d6014-4386-4333-8294-63a53dcb331e": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h2",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "e7020516-265b-4564-9701-70e18c620b56",
+    "149d6014-4386-4333-8294-63a53dcb331e"
+  ]
+}

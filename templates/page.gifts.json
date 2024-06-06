@@ -1,0 +1,46 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "8db88de0-4c0a-461b-9061-8ac4020c60c4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21232694296859__8db88de0-4c0a-461b-9061-8ac4020c60c4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Warranty <\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--21232694296859__8db88de0-4c0a-461b-9061-8ac4020c60c4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to Outward Supply's Warranty Assurance. At Outward Supply, we're dedicated to ensuring your outdoor experience is defined by lasting comfort and unmatched quality. Our commitment extends beyond crafting exquisite outdoor products; it's about safeguarding your investment in outdoor luxury. Explore the details of our warranty, designed to provide peace of mind and the assurance that your outdoor retreat will remain a haven of exceptional comfort and style.<\/p><p> Coverage:<\/p><p>Outward Supply LLC DBA Outward Décor provides a limited lifetime warranty for manufacturing defects and workmanship issues. This warranty guarantees that your Outward Cushions will be defects-free and function as intended under normal use.<\/p><p>Duration:<\/p><p>The warranty coverage for your Outward Cushions starts from the date of purchase and extends for a period of 5 years. Please retain your proof of purchase for warranty validation.<\/p><p>Customer Responsibilities:<\/p><p>To maintain the warranty coverage, please follow the provided care instructions and use the cushions in accordance with their intended purpose. Failure to do so may void the warranty. We recommend reviewing the care instructions carefully and addressing any Warranty concerns promptly.<\/p><p>Staining:<\/p><p>While Outward Cushions are designed to be waterproof, please note that they are not entirely spill-proof. While cushions provide a level of resistance to staining, certain substances or liquids may still cause discoloration or staining if not promptly addressed. We recommend promptly cleaning any spills or stains using mild soap and water, following the care instructions provided. Please note that excessive exposure to certain substances, such as oils, dyes, or strong cleaning agents, may result in permanent staining and void the warranty. It is important to exercise caution and take immediate action to clean any spills to minimize the risk of staining.<\/p><p>Rips & Tears:<\/p><p>Outward Cushions are crafted with durable materials to provide long-lasting performance. However, please be aware that excessive force, sharp objects, or rough handling can potentially cause rips or tears in the cushion fabric. To ensure the longevity of your cushions, it is important to avoid dragging them across rough surfaces or exposing them to sharp edges. In the event of a rip or tear, please refrain from using the cushions to prevent further damage.<\/p><p>If you notice a rip or tear in your Outward Cushions within the warranty period, please contact our customer support team. Our team will guide you through the warranty claim process and aid in addressing the issue.<\/p><p>Please note that rips or tears caused by misuse, abuse, negligence, or any action not in accordance with the provided care instructions may not be covered by the warranty. Handling and using the cushions responsibly is essential to prevent damage and maintain warranty coverage.<\/p><p>Sun Exposure Warranty:<\/p><p>Outward Cushions are crafted using Sunbrella fabric, renowned for its exceptional resistance to fading and damage caused by prolonged sun exposure. We proudly offer a warranty against significant fading of the Sunbrella fabric due to sun exposure for a period of 3 Year from the date of purchase.<\/p><p>Remedies may include repair, replacement, or refund, subject to the terms and conditions detailed in the warranty documentation.<\/p><p>To ensure the best possible condition and longevity of your cushions, we recommend following the provided care instructions, positioning them in shaded areas whenever possible, and practicing regular cleaning and maintenance routines.<\/p><p>Please note that while Sunbrella fabric is highly resistant to fading, excessive exposure to intense sunlight over an extended period may eventually cause some fading or discoloration. Minor fading is considered a natural characteristic of outdoor fabrics and is not covered under this warranty.<\/p><p>Claim Process:<\/p><p>In the unlikely event that you encounter an issue covered by this warranty, please contact our customer support team at [Customer Support Contact Information] or email [Customer Support Email]. Our dedicated team will guide you through the warranty claim process and assist you in providing the necessary documentation or evidence.<\/p><p>Remedy Options:<\/p><p>Upon verification of a valid warranty claim, Outward Supply LLC will, at its discretion, provide one of the following remedies:<\/p><p> Repair:<\/p><p>We will repair the affected area or replace the defective component to restore the cushions' functionality.<\/p><p>Replacement:<\/p><p>We will provide a replacement cushion or component if repair is not feasible or economically viable.<\/p><p>Refund:<\/p><p>In rare cases where repair or replacement is not possible, we may offer a refund for the affected product.<\/p><p>Limitations and Exclusions:<\/p><p>Please note that the warranty does not cover damages resulting from normal wear and tear, misuse, abuse, neglect, accidents, unauthorized repairs, modifications, or improper handling or storage. This warranty is non-transferable and applies only to the original purchaser.<\/p><p> Legal Rights:<\/p><p>This warranty provides you with specific legal rights, and you may also have additional rights granted by your local consumer protection laws. The terms and conditions of this warranty do not affect or limit any statutory rights you may have.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21232694296859__8db88de0-4c0a-461b-9061-8ac4020c60c4-heading-1",
+        "template--21232694296859__8db88de0-4c0a-461b-9061-8ac4020c60c4-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "8db88de0-4c0a-461b-9061-8ac4020c60c4"
+  ]
+}

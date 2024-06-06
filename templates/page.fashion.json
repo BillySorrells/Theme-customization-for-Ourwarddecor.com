@@ -1,0 +1,58 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "6653f2c7-2d6c-456b-911b-409792efcd92": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21232694264091__6653f2c7-2d6c-456b-911b-409792efcd92-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--21232694264091__6653f2c7-2d6c-456b-911b-409792efcd92-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Outward Supply, we prioritize your comfort and satisfaction, and that includes ensuring the longevity and beauty of your cushions. To maintain the pristine condition of your Outward Cushions, we recommend following the care instructions provided in our comprehensive cleaning guide. Our cushions are crafted using premium materials, and cleaning and caring for them is essential. For detailed cleaning instructions and helpful tips, please refer to our Sunbrella Cleaning Guide, which provides expert guidance on how to keep your cushions looking their best. <\/p>"
+          }
+        },
+        "9e244e27-41ae-47f7-a655-3491023cbd66": {
+          "type": "button",
+          "settings": {
+            "button_label": "Sunbrella Link",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--21232694264091__6653f2c7-2d6c-456b-911b-409792efcd92-heading-1",
+        "template--21232694264091__6653f2c7-2d6c-456b-911b-409792efcd92-text-1",
+        "9e244e27-41ae-47f7-a655-3491023cbd66"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "6653f2c7-2d6c-456b-911b-409792efcd92"
+  ]
+}
